@@ -1,5 +1,5 @@
 ## 🛠️ Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,jsp,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github" />
 </p>
